@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20Your%20Name%20👋&fontSize=42&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20I'm%20GADDAM%20VENU%20👋&fontSize=42&fontAlignY=35&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Competitive+Programmer+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%8D;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;System+Engineer+%F0%9F%8F%86;Problem+Solver+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views"/>
