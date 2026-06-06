@@ -13,44 +13,15 @@
 
 </div>
 
----
-
-## 🙋‍♂️ About Me
-
-```yaml
-name        : GADDAM VENU
-title       : Full Stack Developer | AI Engineer
-location    : Madanapalli, Andhra Pradesh, India
-education   : B.Tech CSE(Artififcial Intelligence and Machine Learning, Bapatla Engineering College::Bapatla (2026)
-role        : System Engineer at @TCS
-email       : gaddamvenu12042004@gmail.com
-portfolio   : https://gvrp.netlify.app/
-```
-
-> 💡 *"Your favorite quote or motto goes here — something that drives you every day."*
-
 I'm a passionate **Full Stack Developer** and **AI Engineer** who loves building products that solve real-world problems. Currently exploring the intersection of **Large Language Models**, **distributed systems**, and **competitive programming**. I thrive in fast-paced environments and enjoy turning complex problems into elegant solutions.
-
-🔭 Currently working on **HealthAssist AI: Hybrid Healthcare Intelligent System** — a brief description of what it does  
-🌱 Currently learning **System Design**, **LLMs / GenAI**, and **Kubernetes**  
-👯 Looking to collaborate on **Open Source Projects** and **AI-powered Applications**  
-🎯 Goal: **Land an SDE role at a top product-based company / AI Research Lab**  
-⚡ Fun fact: **Your fun fact goes here — make it memorable!**
-
-<details>
-<summary>📌 Quick Facts</summary>
-<br>
-</details>
-
----
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/Sql-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🎨 Frontend Development
