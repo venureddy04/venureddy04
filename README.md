@@ -57,31 +57,6 @@ I'm a passionate **Full Stack Developer** and **AI Engineer** who loves building
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 📊 Coding Platforms & DSA Stats
-
-<div align="center">
-
-| Platform | Profile | Stats |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> | [![LeetCode](https://img.shields.io/badge/your__username-Visit-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/venu_krishna/) | 450+ Solved • Rating: 1850 |
-| <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /> | [![CodeChef](https://img.shields.io/badge/your__username-Visit-5B4638?style=flat-square&logo=codechef)](https://codechef.com/users/gaddam_venu) | Rating: 1800 • ⭐⭐⭐⭐ (4 Star) |
-</div>
-
-### 🧠 DSA Topics Mastered
-
-![Arrays](https://img.shields.io/badge/Arrays%20%26%20Strings-✓-blueviolet?style=flat-square)
-![Linked Lists](https://img.shields.io/badge/Linked%20Lists-✓-blueviolet?style=flat-square)
-![Stacks & Queues](https://img.shields.io/badge/Stacks%20%26%20Queues-✓-blueviolet?style=flat-square)
-![Trees & BST](https://img.shields.io/badge/Trees%20%26%20BST-✓-blueviolet?style=flat-square)
-![Sorting & Searching](https://img.shields.io/badge/Sorting%20%26%20Searching-✓-blueviolet?style=flat-square)
-![Greedy Algorithms](https://img.shields.io/badge/Greedy%20Algorithms-✓-blueviolet?style=flat-square)
-![Two Pointers](https://img.shields.io/badge/Two%20Pointers-✓-blueviolet?style=flat-square)
-![Divide & Conquer](https://img.shields.io/badge/Divide%20%26%20Conquer-✓-blueviolet?style=flat-square)
-
-
 ---
 ## 🏅 Achievements & Certifications
 
